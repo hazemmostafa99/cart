@@ -1,10 +1,9 @@
-// import Header from "./components/Header/Header";
+import Header from "./components/Header/Header";
 
 function App() {
   return (
     <div className="layout">
-      {/* <Header /> */}
-      <header>Shopping Cart</header>
+      <Header />
       <main>Content</main>
       <footer>Footer</footer>
     </div>
