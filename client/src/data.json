@@ -2,7 +2,7 @@
   {
     "id": "id1",
     "title": "Product1",
-    "imageUrl": "./public/",
+    "imageUrl": "/product1.jpg",
     "desc": "this is product 1",
     "price": 300,
     "size": ["S", "L"]
@@ -10,7 +10,7 @@
   {
     "id": "id2",
     "title": "Product2",
-    "imageUrl": "./public/",
+    "imageUrl": "/product2.jpg",
     "desc": "this is product 2",
     "price": 500,
     "size": ["XL", "L"]
@@ -18,7 +18,7 @@
   {
     "id": "id3",
     "title": "Product3",
-    "imageUrl": "./public/",
+    "imageUrl": "/product3.jpg",
     "desc": "this is product 3",
     "price": 420,
     "size": ["M", "XXL"]
@@ -26,7 +26,7 @@
   {
     "id": "id4",
     "title": "Product4",
-    "imageUrl": "./public/",
+    "imageUrl": "/product4.jpg",
     "desc": "this is product 4",
     "price": 200,
     "size": ["S", "XS"]
